@@ -1,0 +1,3 @@
+export const LIST_ADD_START = 'LIST_ADD_START'
+export const LIST_ADD_SUCCESS = 'LIST_ADD_SUCCESS'
+export const LIST_ADD_FAILURE = 'LIST_ADD_FAILURE'
